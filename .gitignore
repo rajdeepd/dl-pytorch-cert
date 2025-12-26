@@ -5,3 +5,4 @@ data
 C1M2/*.pkl
 C1M2/__pycache__/
 C1M2/EMNIST_data/**
+C1M2/data
